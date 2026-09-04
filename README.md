@@ -1,79 +1,48 @@
-Patrick Munduga Portfolio
+# Patrick Munduga — Portfolio
 
-Business Transformation | Operational Excellence | Decision Intelligence
+**Business Transformation, Operational Excellence & Decision Intelligence**
 
-Welcome to my professional portfolio.
+I help organizations turn fragmented data into decisions leadership can act on — and decisions into measurable results. Over 20+ years, I've led enterprise transformation initiatives, designed KPI and governance systems for multi-site organizations, and built the analytics platforms that give leadership visibility into what's actually driving performance.
 
-I help organizations improve performance, productivity, and profitability through business transformation, operational excellence, analytics, and AI-enabled decision intelligence. My work spans manufacturing, transportation, energy, healthcare, retail, and public-sector organizations, helping leaders transform data into decisions and decisions into measurable business outcomes.
+**Full portfolio, case studies, and contact:** [pmunduga.github.io](https://pmunduga.github.io)
 
-Professional Summary
+## What I've Delivered
 
-I am a Business Transformation, Operational Excellence, and Decision Intelligence leader with experience delivering enterprise transformation initiatives, performance management systems, operational diagnostics, commercial analytics, and digital transformation solutions.
+- **$30M+ in validated operational savings** across manufacturing, transportation, and CPG client engagements
+- **KPI architectures and governance systems** built for multi-site organizations spanning 10+ countries
+- **Executive decision-support platforms** that replaced fragmented reporting with a single source of truth
 
-Over the course of my career, I have:
+These results come from direct client engagements (automotive manufacturing, public transit, CPG operations). The portfolio also includes MIT Sloan/Harvard academic capstone projects (healthcare analytics, agentic AI strategy) and applied practicum work (retail analytics) — each labeled accordingly on the [portfolio site](https://pmunduga.github.io), since the two aren't the same thing and shouldn't be presented as if they were.
 
-Delivered more than $30M in validated operational savings
-Supported transformation initiatives across manufacturing, transportation, and industrial operations
-Designed KPI architectures and performance management systems for multi-site organizations
-Built decision intelligence solutions that improve visibility, accountability, and execution
-Helped organizations evaluate and apply AI-enabled operating models and Agentic AI capabilities
-Portfolio Areas
-Business Transformation
+## Areas of Work
 
-Projects focused on strategy execution, organizational effectiveness, operating model design, governance systems, and sustainable performance improvement.
+- **Business Transformation** — strategy execution, operating model design, governance systems
+- **Operational Excellence** — productivity, reliability, maintenance transformation, workforce effectiveness
+- **Analytics & Decision Intelligence** — executive dashboards, KPI frameworks, decision-support systems
+- **Commercial Performance** — revenue growth analytics, pricing, customer segmentation, go-to-market
+- **AI & Digital Transformation** — agentic AI strategy, digital operating models, decision intelligence
 
-Operational Excellence
+## Core Capabilities
 
-Solutions supporting productivity improvement, reliability, maintenance transformation, workforce effectiveness, and continuous improvement.
+Business Transformation · Operational Excellence · Performance Management · KPI Architecture · Decision Support Systems · Change Management · Commercial Analytics · Agentic AI Strategy
 
-Analytics & Decision Intelligence
+*(Full skills breakdown on the [portfolio site](https://pmunduga.github.io#skills).)*
 
-Executive dashboards, KPI frameworks, performance analytics, and decision-support systems designed to accelerate insight generation and improve decision quality.
+## Technology Stack
 
-Commercial Performance
+Power BI · SQL · Microsoft Fabric · Tableau · DAX · Power Query (M) · R · Advanced Excel
 
-Revenue growth analytics, profitability analysis, customer segmentation, pricing analytics, and go-to-market performance management.
+## Education & Credentials
 
-AI & Digital Transformation
+- MIT Sloan School of Management — Sloan Fellow MBA
+- ESAMI Business School — MBA
+- Makerere University — BSc Civil Engineering
+- Balanced Scorecard Professional (BSP) — Strategic Planning & Management
+- Leading Transformational Change
 
-Projects exploring AI-enabled decision intelligence, Agentic AI applications, digital operating models, and future-ready business capabilities.
+## Connect
 
-Core Capabilities
-Business Transformation
-Operational Excellence
-Performance Management
-Digital Transformation
-Decision Intelligence
-KPI Architecture
-Commercial Performance Management
-Analytics Strategy
-Data Governance
-Executive Dashboards
-Process Improvement
-Change Management
-Strategy Execution
-AI-Enabled Decision Support
-Technology Stack
-Power BI
-SQL
-Microsoft Fabric
-Tableau
-DAX
-Power Query (M)
-R
-Advanced Excel
-Education & Credentials
-MIT Sloan School of Management – MBA
-ESAMI Business School – MBA
-Makerere University – BSc Civil Engineering
-Balanced Scorecard Strategy Professional
-Leading Transformational Change
-Connect
-
-LinkedIn: https://www.linkedin.com/in/patrick-munduga
-
-Portfolio Website: https://pmunduga.github.io
-
-Email: patrick.munduga1@gmail.com
-
-"Transforming strategy into execution through operational excellence, analytics, and decision intelligence."
+- LinkedIn: [linkedin.com/in/patrick-munduga](https://www.linkedin.com/in/patrick-munduga)
+- Portfolio: [pmunduga.github.io](https://pmunduga.github.io)
+- Email: [patrick.munduga1@gmail.com](mailto:patrick.munduga1@gmail.com)
+- Location: Houston, Texas, USA
